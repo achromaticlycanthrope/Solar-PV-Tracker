@@ -1,0 +1,6 @@
+{
+  "name": "Solar PV Tracker",
+  "description": "Parse solar PV monthly CSV logs, maintain a local master database, and analyze production levels comparing to city averages with interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
